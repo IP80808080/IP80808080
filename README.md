@@ -1,5 +1,5 @@
 ![logo](https://github.com/Radar88888844/Radar88888844/blob/master/Dance.png?raw=true)
-<h1 align="center">Hey, fellow techies!😎, I'm KSK</h1>
+<h1 align="center">Hey, fellow techies!😎, I'm Kamlesh S. Kasambe</h1>
 <h3 align="center">Exploring the Intersection of Technology and Art</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif">
