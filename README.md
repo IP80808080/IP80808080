@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=radar88888844&label=Profile%20views&color=0e75b6&style=flat" alt="radar88888844" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IP80808080&label=Profile%20views&color=0e75b6&style=flat" alt="IP80808080" /> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
