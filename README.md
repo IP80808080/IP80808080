@@ -72,12 +72,18 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=IP80808080&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IP80808080&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IP80808080&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IP80808080&langs_count=8&count_private=true&layout=compact&theme=synthwave&hide_border=false&bg_color=0D1117" alt="IP80808080" /></p><br/>
+
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IP80808080&show_icons=true&count_private=true&theme=synthwave&hide_border=false&bg_color=0D1117" alt="IP80808080" /></p><br/>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IP80808080&theme=synthwave&hide_border=false&stroke=0000&background=060A0CD0" alt="IP80808080" /></p><br/>
+  
 ###
 
-<div align="left">
+---
+
+<div align="center">
   <a href="https://linkedin.com/kamleshkasambe" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -87,10 +93,14 @@
   <a href="kasambe.kamlesh1@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+  
+  
   <a href="https://telegram.com/kamleshkasambe" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-</div>
+</div><br/>
+
+---
 
 ###
 
@@ -98,8 +108,11 @@
 
 ###
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&&theme=radical" alt="IP80808080" /></p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=IP80808080&icon=8&color=12)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=IP80808080&icon=8&color=12)](https://visitcount.itsvg.in)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=3000&pause=800&color=28D1DB&center=true&multiline=true&width=435&height=80&lines=Thank+you+for+Visiting" alt="Typing SVG" /></a>
+</div>
