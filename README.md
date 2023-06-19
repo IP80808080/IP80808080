@@ -72,10 +72,6 @@
 
 ###
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IP80808080&langs_count=8&count_private=true&layout=compact&theme=synthwave&hide_border=false&bg_color=0D1117" alt="IP80808080" /></p><br/>
-
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IP80808080&show_icons=true&count_private=true&theme=synthwave&hide_border=false&bg_color=0D1117" alt="IP80808080" /></p><br/>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IP80808080&langs_count=8&count_private=true&layout=compact&theme=synthwave&hide_border=false&bg_color=0D1117" alt="IP80808080" /></p><br/>
 
